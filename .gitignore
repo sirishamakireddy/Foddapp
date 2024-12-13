@@ -1,3 +1,5 @@
 *.txt
+!test1.txt
+!test23.txt
 config.json
 rose/
